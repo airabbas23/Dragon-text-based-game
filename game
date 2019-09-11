@@ -3,7 +3,7 @@ print("you go into the cave to kill the dragon")
 testVar1 = input();
     # 'y'
 if testVar1 =="yes":
-    print("you walk or run away")
+    print("you walk or run away")   
     testVar1 = input()
     if testVar1 == "walk":
         print("I hear something")
@@ -12,5 +12,8 @@ if testVar1 =="yes":
     testVar1 == input("sees the dragon")
     if testVar1 == "draws sword":
         print("swing sword agaisnt dragon")
-    if testVar1 == "stabs dragon":
-        print("victory I have claimed honor for my queen")
+    testVar1 == "draws sword"
+    print("dragon is stabbed in the heart")
+    testVar1 = input()
+    if testVar1 == "dragon is dead":
+        print("I have achived honor for my queen")
