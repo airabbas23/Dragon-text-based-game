@@ -1,7 +1,7 @@
 print("you go into the cave to kill the dragon")
 
 testVar1 = input();
-    # 'y'
+    # 'yes'
 if testVar1 =="yes":
     print("you walk or run away")   
     testVar1 = input()
